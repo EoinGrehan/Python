@@ -8,15 +8,21 @@ The program uses EasyGUI to enhance the program the graphical appearance and to 
 #Client Features
 
 Prompt the user to enter grade for each module
+
 Prompt the user to enter credit value for each module
+
 Send entered values to server
+
 Receive and display overall GPA
+
 Repeat program until user terminates
 
 #Server Features
 
 Receive the inputs from the client (Integers encoded as string)
+
 Completes calculation and returns overall GPA to the client
+
 If the TLS files are missing or corrupt a error message is displayed and the program is terminated
 
 
